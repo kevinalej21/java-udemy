@@ -13,6 +13,12 @@ public class PruebaPersona {
         System.out.println("Persona2"+Persona2);
         System.out.println("Persona1"+Persona1);
 
+        Persona2.desplegarInformacion();
+        Persona2.Nombre = "Karla" ;
+        Persona2.Apellido ="Lara";
+        Persona2.desplegarInformacion();
+
+
     }
 
 }
