@@ -11,6 +11,7 @@ public class PruebaPersona {
         persona Persona2 = new persona();
 
         System.out.println("Persona2"+Persona2);
+        System.out.println("Persona1"+Persona1);
 
     }
 
